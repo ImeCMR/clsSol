@@ -1,0 +1,39 @@
+ 130.000      xbox
+ 130.000      ybox              Box length in A units (X, Y and Z directions)
+ 130.000      zbox
+      25      ns1               No. of type 1 molecules
+      24      ms1               No. of atoms in a type 1 molecule
+     100      ns2               No. of type 2 molecules
+      14      ms2               No. of atoms in a type 2 molecule 
+   32463      ns3               No. of type 3 molecules
+       3      ms3               No. of atoms in a type 3 molecule 
+       0      ns4               No. of type 4 molecules
+       1      ms4               No. of atoms in a type 4 molecule 
+     2.1      rclose
+89UW        
+Y7Q6
+SOL 
+Cl
+b4em.pdb 
+run06.pdb         
+ATOM      1   H6 Y7Q6    0       2.166   1.640  -0.004  1.00  0.00           H
+ATOM      2   C2 Y7Q6    0       1.217   1.113  -0.007  1.00  0.00           C
+ATOM      3   C1 Y7Q6    0       1.208  -0.288  -0.005  1.00  0.00           C
+ATOM      4   O1 Y7Q6    0       2.420  -0.923  -0.003  1.00  0.00           O
+ATOM      5   H1 Y7Q6    0       2.283  -1.886   0.018  1.00  0.00           H
+ATOM      6   C6 Y7Q6    0       0.000  -0.994  -0.002  1.00  0.00           C
+ATOM      7   H2 Y7Q6    0      -0.000  -2.083  -0.004  1.00  0.00           H
+ATOM      8   C5 Y7Q6    0      -1.208  -0.288   0.004  1.00  0.00           C
+ATOM      9   O2 Y7Q6    0      -2.420  -0.923   0.004  1.00  0.00           O
+ATOM     10   H3 Y7Q6    0      -2.283  -1.885  -0.013  1.00  0.00           H
+ATOM     11   C4 Y7Q6    0      -1.217   1.113   0.007  1.00  0.00           C
+ATOM     12   H4 Y7Q6    0      -2.166   1.640   0.007  1.00  0.00           H
+ATOM     13   C3 Y7Q6    0       0.000   1.795  -0.001  1.00  0.00           C
+ATOM     14   H5 Y7Q6    0      -0.000   2.882  -0.002  1.00  0.00           H
+ATOM      1  OW   SOL    3      11.283   7.944  35.941  1.00  0.00
+ATOM      2  HW1  SOL    3      11.784   7.233  36.435  1.00  0.00
+ATOM      3  HW2  SOL    3      10.371   8.044  36.338  1.00  0.00
+
+
+
+
